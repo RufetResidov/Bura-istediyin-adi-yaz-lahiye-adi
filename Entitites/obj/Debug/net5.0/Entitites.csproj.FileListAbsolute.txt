@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FurnEnd\Entitites\bin\Debug\net5.0\Entitites.deps.json
+C:\Users\Acer\source\repos\FurnEnd\Entitites\bin\Debug\net5.0\Entitites.dll
+C:\Users\Acer\source\repos\FurnEnd\Entitites\bin\Debug\net5.0\ref\Entitites.dll
+C:\Users\Acer\source\repos\FurnEnd\Entitites\bin\Debug\net5.0\Entitites.pdb
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.dll
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\ref\Entitites.dll
+C:\Users\Acer\source\repos\FurnEnd\Entitites\obj\Debug\net5.0\Entitites.pdb

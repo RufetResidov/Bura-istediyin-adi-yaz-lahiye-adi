@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\Services.deps.json
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\Services.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\ref\Services.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\Services.pdb
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\Entitites.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Acer\source\repos\FurnEnd\Services\bin\Debug\net5.0\Entitites.pdb
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.csproj.CopyComplete
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\ref\Services.dll
+C:\Users\Acer\source\repos\FurnEnd\Services\obj\Debug\net5.0\Services.pdb
