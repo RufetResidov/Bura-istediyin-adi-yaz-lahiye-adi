@@ -297,8 +297,8 @@
         }
         let productIds = cookieVal != "" ? cookieVal:[];
         $(".add-to-cart").click(function () {
-            const productId = ($(this).attr("proId"))
-            productIds.join(productId);
+            const productId = $(this).attr("proId")
+            productIds.push(productId);
             setCookie('myCart', productIds.join("-"), 7);
         })
 
